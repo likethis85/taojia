@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="408"
+   name=""
+   committed-date="2011-09-17T07:59:10.229342Z"
+   url="https://svn.sinaapp.com/taojia/5/tpl/default/themes/custom-theme/images"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="408"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_dots-medium_80_f8eb82_4x4.png"
+   text-time="2011-09-16T16:50:47.673461Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="0180ad14edcb5329ea348571411c64c7"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:52.754910Z"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_white-lines_85_f7f7ba_40x100.png"
+   text-time="2011-09-16T16:50:47.700462Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="42c67b0c16d23d872d9ab1cb7b5a2cd2"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:50.687792Z"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_flat_75_ffffff_40x100.png"
+   text-time="2011-09-16T16:50:47.698462Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="8692e6efddf882acbff144c38ea7dfdf"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:52.496896Z"/>
+<entry
+   committed-rev="408"
+   name="ui-icons_ffffff_256x240.png"
+   text-time="2011-09-16T16:50:47.721464Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="342bc03f6264c75d3f1d7f99e34295b9"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:51.199822Z"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_diagonals-small_75_ccd232_40x40.png"
+   text-time="2011-09-16T16:50:47.670461Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="af8abef26ce075d41473e1c35c849a85"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:50.267768Z"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_fine-grain_40_db4865_60x60.png"
+   text-time="2011-09-16T16:50:47.683461Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="dae8a12908318aeeecc2fb6df424f02d"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:50.045756Z"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_fine-grain_40_9bc943_60x60.png"
+   text-time="2011-09-16T16:50:47.680461Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="f500cb4bc3bf5f8647c7ad90809b1251"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:52.460894Z"/>
+<entry
+   committed-rev="408"
+   name="ui-icons_88a206_256x240.png"
+   text-time="2011-09-16T16:50:47.707463Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="a2a64ec18bc395a3ef9ca40f46579983"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:50.976809Z"/>
+<entry
+   committed-rev="408"
+   name="ui-icons_c02669_256x240.png"
+   text-time="2011-09-16T16:50:47.710463Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="53382ab71e6a2032c61ad853d21bd5a9"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:53.075929Z"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_dots-small_35_35414f_2x2.png"
+   text-time="2011-09-16T16:50:47.677461Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="6fc16089cc043dedb9d1fe28839b6c96"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:51.791855Z"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_fine-grain_75_9bc943_60x60.png"
+   text-time="2011-09-16T16:50:47.691462Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="0fdd8ba60a81f1a78bc5295947f8d836"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:50.088758Z"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_fine-grain_50_93c3cd_60x60.png"
+   text-time="2011-09-16T16:50:47.687462Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="689e56ec06c660b285bc05ee05d6a34c"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:50.705793Z"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_dots-medium_80_ffff38_4x4.png"
+   text-time="2011-09-16T16:50:47.675461Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="267da65751c39aef21352ab469ee1bc8"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:50.184763Z"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_flat_75_ba9217_40x100.png"
+   text-time="2011-09-16T16:50:47.695462Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="f4a9283c094212cca7265402df9d6b22"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:50.232766Z"/>
+<entry
+   committed-rev="408"
+   name="ui-icons_e1e463_256x240.png"
+   text-time="2011-09-16T16:50:47.714463Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="d18d4953f138bce9f13003d2af5cea41"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:51.094816Z"/>
+<entry
+   committed-rev="408"
+   name="ui-icons_ffeb33_256x240.png"
+   text-time="2011-09-16T16:50:47.718463Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="1eb4ddae16d9faa168952fd99adc966a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:51.465837Z"/>
+<entry
+   committed-rev="408"
+   name="ui-icons_454545_256x240.png"
+   text-time="2011-09-16T16:50:47.703463Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="119dd0c2e94ad689de873ef39fd43e6e"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:50.514782Z"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_diagonals-small_50_ff3853_40x40.png"
+   text-time="2011-09-16T16:50:47.668461Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="2388ef7be01e7b479cb12bc993dd3551"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:50.922806Z"/>
+</wc-entries>

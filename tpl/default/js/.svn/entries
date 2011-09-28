@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="408"
+   name=""
+   committed-date="2011-09-17T07:59:10.229342Z"
+   url="https://svn.sinaapp.com/taojia/5/tpl/default/js"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="408"/>
+<entry
+   committed-rev="408"
+   name="do2.js"
+   text-time="2011-09-16T16:50:47.555454Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="b155d710c91c1e36866c29e003520a13"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="dt.js"
+   text-time="2011-09-16T16:50:47.558454Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="d3d5dcccc1c42a4692a3448c8771c175"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="mh_btn.js"
+   text-time="2011-09-16T16:50:47.571455Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="3ad8c84d54d96823bcbdbf2bc74d4ed4"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="mh_menu.js"
+   text-time="2011-09-16T16:50:47.573455Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="24c40524db4c3931aa88f7d22d450e76"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="test_ol.js"
+   text-time="2011-09-16T16:50:47.578455Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="2194c01b829d8076542dc002f344f61a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="mh_alert.js"
+   text-time="2011-09-16T16:50:47.568455Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="a753ec3e714813390d3adb1517b6e750"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="loadJs.js"
+   text-time="2011-09-16T16:50:47.565455Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="5557fc0839574438550d6de4ca681d7b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="dt_manager.js"
+   text-time="2011-09-16T16:50:47.560454Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="15ebdbc92421508b939e1fc6c4ca54a1"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="mh_scroll.js"
+   text-time="2011-09-16T16:50:47.575455Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="d67fc651c3611101f511bef086ae1d2d"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="dt_manager_do.js"
+   text-time="2011-09-16T16:50:47.562454Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="b93b929e5b5b19e642bfe7587e25899f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

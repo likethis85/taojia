@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="406"
+   name=""
+   committed-date="2011-09-17T07:48:06.881344Z"
+   url="https://svn.sinaapp.com/taojia/5/controller"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="406"/>
+<entry
+   committed-rev="406"
+   name="check.php"
+   text-time="2011-09-15T21:50:54.888916Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="f0c0a8c2a39b4dbf33d4ba9e08760a9b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="466"
+   name="item.php"
+   text-time="2011-09-17T01:34:10.704611Z"
+   committed-date="2011-09-17T16:35:11.924008Z"
+   checksum="ebc5d0aaa99aced3b783be46cf6b70bd"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   revision="466"/>
+<entry
+   committed-rev="477"
+   name="auth.php"
+   text-time="2011-09-17T01:54:07.963091Z"
+   committed-date="2011-09-17T16:54:20.340641Z"
+   checksum="301c7a5f9639a85f9a8f44e1b0603611"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   revision="477"/>
+<entry
+   committed-rev="438"
+   name="main.php"
+   text-time="2011-09-16T18:24:21.861574Z"
+   committed-date="2011-09-17T09:24:29.507245Z"
+   checksum="3c04cc6f7754068f8576429502443bec"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   revision="438"/>
+</wc-entries>

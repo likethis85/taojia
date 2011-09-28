@@ -1,0 +1,40 @@
+<?php
+print <<<EOT
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<script>
+
+</script>
+<style>
+#header{width:100%;background-color:lightblue;height:30px;}
+#name{font-size:20px;color:white;}
+form{text-decoration:center;}
+</style>
+<div id="header">
+<div id="name">
+{$_SESSION["UserName"]}
+</div>
+</div>
+<form action="http://taojia.sinaapp.com/index.php?c=item&a=recommend_save" method=POST>
+	<table>
+		
+		<td>确认要搜藏这件商品？</td>
+<?php
+    echo $this->iid
+?>
+
+			<td> <input type="submit" text="确定">  </td>
+			
+		</tr>
+	</table>
+</form>
+</body>
+</html>
+
+EOT;
+?>

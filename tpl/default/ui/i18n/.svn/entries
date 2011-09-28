@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="408"
+   name=""
+   committed-date="2011-09-17T07:59:10.229342Z"
+   url="https://svn.sinaapp.com/taojia/5/tpl/default/ui/i18n"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="408"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-eo.js"
+   text-time="2011-09-16T16:50:47.810469Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="2da1f68b29e54def1d9176cd3e3bf819"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-ta.js"
+   text-time="2011-09-16T16:50:47.917475Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="dbf63a8adbadf31a1f7a67840069fffa"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-fo.js"
+   text-time="2011-09-16T16:50:47.827470Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="55400fdfda214368667107824d0dae00"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-bs.js"
+   text-time="2011-09-16T16:50:47.785467Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="8363b4e78fbf4a98066850ecdb425b9f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-cs.js"
+   text-time="2011-09-16T16:50:47.791468Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="b7dd93b8874fa6e6150e9eca4cc89c48"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-es.js"
+   text-time="2011-09-16T16:50:47.813469Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="469e658bdff7e5297d8c43871dfcf209"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-eu.js"
+   text-time="2011-09-16T16:50:47.819469Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="47c4b68f5686d533cce7025d17740ca3"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-ko.js"
+   text-time="2011-09-16T16:50:47.861472Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="16ca141a47b5afbd843b39350eedf078"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-is.js"
+   text-time="2011-09-16T16:50:47.852471Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="c1dabcdd78e37691898f7de6628e79e5"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-no.js"
+   text-time="2011-09-16T16:50:47.880473Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="d241d20818c3e51283b84745533a4ceb"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-hu.js"
+   text-time="2011-09-16T16:50:47.843471Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="d10a3b9a60e652915a61eb71b6702387"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-sk.js"
+   text-time="2011-09-16T16:50:47.900474Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="c1ec1d68d62b69fe2ca4aee41a6135e6"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-ar-DZ.js"
+   text-time="2011-09-16T16:50:47.775467Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="75fccaec023b0e996fca73c74e67a282"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-rm.js"
+   text-time="2011-09-16T16:50:47.891473Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="41583b2f46d3ca60bb0fb088e32735e6"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-vi.js"
+   text-time="2011-09-16T16:50:47.930476Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="0c3d53d7759d6f4f744c182700d32004"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-ms.js"
+   text-time="2011-09-16T16:50:47.875472Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="85de03d994b15767e714eeb2efb173dc"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-uk.js"
+   text-time="2011-09-16T16:50:47.928475Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="9ae7e7766bd364c9be12f08797245501"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-ro.js"
+   text-time="2011-09-16T16:50:47.893473Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="e11f6d419014dc1f24a0ab425bbfc9db"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-hy.js"
+   text-time="2011-09-16T16:50:47.846471Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="64b7ffeca3fedb60fe3ae37695e0e4bf"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-zh-HK.js"
+   text-time="2011-09-16T16:50:47.936476Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="3b93663879ec0f88e19955e86cea1d1f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-sq.js"
+   text-time="2011-09-16T16:50:47.906474Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="98b50eaa85808d599783945a0cf408b8"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-af.js"
+   text-time="2011-09-16T16:50:47.772466Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="2ac3fa0675f3853f0d5bcc2592769e4b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-ru.js"
+   text-time="2011-09-16T16:50:47.896474Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="1789130690af5ac840f6d3cae631bbe8"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-en-NZ.js"
+   text-time="2011-09-16T16:50:47.807468Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="af985e8d034123f14696aa116027760d"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-id.js"
+   text-time="2011-09-16T16:50:47.849471Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="cc3243056282ed905e16ff34b2741c22"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-fr-CH.js"
+   text-time="2011-09-16T16:50:47.830470Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="869e87da335f3f14b388a8336fb2cd45"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-el.js"
+   text-time="2011-09-16T16:50:47.799468Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="5e93d1ed09b1b8a8ce1a7887cc9f57ba"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-ar.js"
+   text-time="2011-09-16T16:50:47.778467Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="7a7c2df1718c99fc943abe0e55243b25"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-gl.js"
+   text-time="2011-09-16T16:50:47.835470Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="948d19d9becc1628450f95d80c3205b4"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery-ui-i18n.js"
+   text-time="2011-09-16T16:50:47.756466Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="9e8cdc55d541d49e53031bca12f2dd65"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-en-AU.js"
+   text-time="2011-09-16T16:50:47.801468Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="4a38655904f6c55da227cea464b55a2b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-sr-SR.js"
+   text-time="2011-09-16T16:50:47.909474Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="e2827d9153831eb460a5f48937f6ed3f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-fr.js"
+   text-time="2011-09-16T16:50:47.832470Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="9b20cecd7909e30ed6abf54192bfe126"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-et.js"
+   text-time="2011-09-16T16:50:47.816469Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="ec1d0da4ff10be7bca2e8a0a59786fb5"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-ml.js"
+   text-time="2011-09-16T16:50:47.872472Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="e6ff9606ff0a7919e9024a616af18e7d"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-nl.js"
+   text-time="2011-09-16T16:50:47.877472Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="ea6ca76bcbe46f2e390a31213154ada9"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-zh-TW.js"
+   text-time="2011-09-16T16:50:47.938476Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="8a9255b0c0f276f6adb27aa3d3356121"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-hr.js"
+   text-time="2011-09-16T16:50:47.841470Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="dc3ebd300798cb9f64cb470e8d27d596"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-az.js"
+   text-time="2011-09-16T16:50:47.780467Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="e8da2923abd8096b3393b627453506fe"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-pl.js"
+   text-time="2011-09-16T16:50:47.882473Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="fbe2154c00284293ced0089a44f6a03f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-th.js"
+   text-time="2011-09-16T16:50:47.919475Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="6a2e1c528d7f6cd211dafbe18658b14b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-it.js"
+   text-time="2011-09-16T16:50:47.855471Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="b1dc900793cf03c2b05cfba360b96e7f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-tj.js"
+   text-time="2011-09-16T16:50:47.922475Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="af2f7687e12633c3fec27db32ff55808"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-sl.js"
+   text-time="2011-09-16T16:50:47.903474Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="72d844813e1298ccde575a24579776c2"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-lt.js"
+   text-time="2011-09-16T16:50:47.866472Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="ab35e31daf26251cf8965fcbf7764535"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-zh-CN.js"
+   text-time="2011-09-16T16:50:47.933476Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="26ec0e4199eee7d2e458e65bee26fd62"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-lv.js"
+   text-time="2011-09-16T16:50:47.869472Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="206228f0d14d2139c227ca75b9acab2d"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-ca.js"
+   text-time="2011-09-16T16:50:47.788467Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="b9f028d7e49861bcb3ed1de285e88f31"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-pt.js"
+   text-time="2011-09-16T16:50:47.888473Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="2e4a825eeb6a730b199109154a281016"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-kz.js"
+   text-time="2011-09-16T16:50:47.863472Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="be240ed398a7380cb094c84b49fde0e7"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-da.js"
+   text-time="2011-09-16T16:50:47.794468Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="1e1093539709e0f38f3635b6ab0ac89a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-pt-BR.js"
+   text-time="2011-09-16T16:50:47.885473Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="4f413228d3d44c2bf5d325d5f04c643b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-sr.js"
+   text-time="2011-09-16T16:50:47.911474Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="a19ff5cda37a4f55fa026262fa917ad1"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-tr.js"
+   text-time="2011-09-16T16:50:47.925475Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="97188c81e5b7a63f978c2141785faa75"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-fa.js"
+   text-time="2011-09-16T16:50:47.822469Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="9cf3106d0b5d9ee367035496e785343d"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-sv.js"
+   text-time="2011-09-16T16:50:47.914475Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="0b013df9bb8eb826de92e96cbe2b562e"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-bg.js"
+   text-time="2011-09-16T16:50:47.783467Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="1cff642f65bcc44bf0dcbb76a295b130"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-en-GB.js"
+   text-time="2011-09-16T16:50:47.805468Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="741ccb8405dae85873bdb81c46e73645"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-de.js"
+   text-time="2011-09-16T16:50:47.796468Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="ee50447bc4a04393a169ca41fd0b08bd"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-ja.js"
+   text-time="2011-09-16T16:50:47.858471Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="e17dc3effc1a23583c65d3f1971bdbc0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-he.js"
+   text-time="2011-09-16T16:50:47.838470Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="674c27ecd84362dd0924adc4e27685d9"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker-fi.js"
+   text-time="2011-09-16T16:50:47.824469Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="c796a52ee6dbe14ee3c3e3f012a69af7"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

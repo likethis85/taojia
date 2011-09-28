@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="407"
+   name=""
+   committed-date="2011-09-17T07:50:09.453815Z"
+   url="https://svn.sinaapp.com/taojia/5/include/lotusphp_runtime/Cache"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="407"/>
+<entry
+   name="Adapter"
+   kind="dir"/>
+<entry
+   committed-rev="407"
+   name="CacheAdapterFactory.php"
+   text-time="2011-09-16T16:48:58.347208Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="ecf02b8d53e747310ca66fbd70c92bd4"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="CacheConnectionManager.php"
+   text-time="2011-09-16T16:48:58.354208Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="71c8b4c834f99845c33ea154e655e4c1"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="CacheHandle.php"
+   text-time="2011-09-16T16:48:58.358208Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="9b3bec1a0abbc5d6a04076d1e5c9d609"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="CacheConfigBuilder.php"
+   text-time="2011-09-16T16:48:58.350208Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="6d9dd7e3dee3d800f58d0744316abea5"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="Cache.php"
+   text-time="2011-09-16T16:48:58.344208Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="0ad4ecad35a43703a8241ad157ec883f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   name="QueryEngine"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="408"
+   name=""
+   committed-date="2011-09-17T07:59:10.229342Z"
+   url="https://svn.sinaapp.com/taojia/5/tpl/default/ui"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="408"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.datepicker.js"
+   text-time="2011-09-16T16:50:48.053483Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="f89b423d211664c356beaf1cd13f428c"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.sortable.js"
+   text-time="2011-09-16T16:50:48.137487Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="fc60121bca5fc144f2aa72e45dd8fe6e"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   name="minified"
+   kind="dir"/>
+<entry
+   committed-rev="408"
+   name="jquery-ui-1.8.7.custom.js"
+   text-time="2011-09-16T16:50:47.967478Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="4c357e83a3a58f7b44710f6a4c390522"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.effects.transfer.js"
+   text-time="2011-09-16T16:50:48.031481Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="e729a4ab897243ec3bb801c632c8f2f2"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.core.js"
+   text-time="2011-09-16T16:50:48.049482Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="80d90ddd48a9d27965c19c15443c0972"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.progressbar.js"
+   text-time="2011-09-16T16:50:48.114486Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="51abd6279a76153aa53f7e5767029765"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.effects.scale.js"
+   text-time="2011-09-16T16:50:48.021481Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="c7c689aaa74286421846ec33c3e07d38"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.effects.clip.js"
+   text-time="2011-09-16T16:50:47.996479Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="3569811cc557dd9e7da139a60a38305e"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.tabs.js"
+   text-time="2011-09-16T16:50:48.147488Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="174d01e68619558e98ad30d84133a910"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.effects.core.js"
+   text-time="2011-09-16T16:50:48.000480Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="e79ad011462a0eb163b7e620838d3c64"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.effects.blind.js"
+   text-time="2011-09-16T16:50:47.990479Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="001dadbdf6774a148f751a0a2e5838b6"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.effects.shake.js"
+   text-time="2011-09-16T16:50:48.025481Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="19fec810494707097af28b856a2d7d08"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.dialog.js"
+   text-time="2011-09-16T16:50:48.070484Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="75ca2bfdd104f06dc5f132118ea306e4"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.autocomplete.js"
+   text-time="2011-09-16T16:50:48.039482Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="87477f7146716e2b1bf3360804151ebc"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.effects.slide.js"
+   text-time="2011-09-16T16:50:48.028481Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="c408974158943087b43d088585c566eb"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.selectable.js"
+   text-time="2011-09-16T16:50:48.126487Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="028be637e96f32635737b74202b886fc"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.effects.drop.js"
+   text-time="2011-09-16T16:50:48.006480Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="45fee1720cba68470825ab03450e34f5"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.droppable.js"
+   text-time="2011-09-16T16:50:48.088485Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="a0c6b237073f2803ed91e1dda757036c"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.draggable.js"
+   text-time="2011-09-16T16:50:48.079484Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="d896fda0d2dedf25c4b892029e33bd82"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.effects.highlight.js"
+   text-time="2011-09-16T16:50:48.016480Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="77cb328993460662f141edbe3de13bcc"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   name="i18n"
+   kind="dir"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.button.js"
+   text-time="2011-09-16T16:50:48.045482Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="66528cb9b088e6b9430d6e0723b17faa"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.effects.bounce.js"
+   text-time="2011-09-16T16:50:47.993479Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="43d6e9928aff8c56e555b40b9eeb1def"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.effects.pulsate.js"
+   text-time="2011-09-16T16:50:48.019481Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="b067f1a0e056b48f1a8cc923478f9554"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.resizable.js"
+   text-time="2011-09-16T16:50:48.118486Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="75fd41e37656c143e789986e5ce53bef"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.slider.js"
+   text-time="2011-09-16T16:50:48.130487Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="c7626e9fb9b3f8352fc890eba3af89c3"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.widget.js"
+   text-time="2011-09-16T16:50:48.154488Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="ba9cf769056d64b55805564cf3eae814"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.effects.fold.js"
+   text-time="2011-09-16T16:50:48.014480Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="ff956efe21aca4507b3e10d9ea789ab1"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.mouse.js"
+   text-time="2011-09-16T16:50:48.096485Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="0b59cc5cc42fa6120d34666d2bae3528"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery-ui-1.8.11.custom.js"
+   text-time="2011-09-16T16:50:47.943476Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="7328ce9b729c0602bc493ab71eb176b3"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.accordion.js"
+   text-time="2011-09-16T16:50:48.034481Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="378ed996823b4a4e5089175bea3d96bf"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.effects.fade.js"
+   text-time="2011-09-16T16:50:48.011480Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="93827b85c9196712a81d3a4c37f0926c"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.effects.explode.js"
+   text-time="2011-09-16T16:50:48.009480Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="c39707489d5b229580f7693a0c180c27"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.ui.position.js"
+   text-time="2011-09-16T16:50:48.099485Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="f143e6eed8ff5352e6ef6b8acf73e759"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

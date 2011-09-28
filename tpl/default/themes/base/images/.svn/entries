@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="408"
+   name=""
+   committed-date="2011-09-17T07:59:10.229342Z"
+   url="https://svn.sinaapp.com/taojia/5/tpl/default/themes/base/images"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="408"/>
+<entry
+   committed-rev="408"
+   name="ui-icons_2e83ff_256x240.png"
+   text-time="2011-09-16T16:50:47.627458Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="25162bf857a8eb83ea932a58436e1049"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:52.794913Z"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_glass_95_fef1ec_1x400.png"
+   text-time="2011-09-16T16:50:47.619458Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="5a3be2d8fff8324d59aec3df7b0a0c83"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:52.420891Z"/>
+<entry
+   committed-rev="408"
+   name="ui-icons_888888_256x240.png"
+   text-time="2011-09-16T16:50:47.633459Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="faf6f5dc44e713178784c1fb053990aa"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:51.058813Z"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_glass_75_dadada_1x400.png"
+   text-time="2011-09-16T16:50:47.614457Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="c12c6510dad3ebfa64c8a30e959a2469"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:50.331772Z"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_glass_55_fbf9ee_1x400.png"
+   text-time="2011-09-16T16:50:47.609457Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="f8f4558e0b92ff2cd6136781533902ec"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:50.869803Z"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_glass_75_e6e6e6_1x400.png"
+   text-time="2011-09-16T16:50:47.616458Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="f4254356c2a8c9a383205ef2c4de22c4"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:52.551899Z"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_flat_75_ffffff_40x100.png"
+   text-time="2011-09-16T16:50:47.607457Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="8692e6efddf882acbff144c38ea7dfdf"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:52.845916Z"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_glass_65_ffffff_1x400.png"
+   text-time="2011-09-16T16:50:47.612457Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="e5a8f32e28fd5c27bf0fed33c8a8b9b5"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:50.062756Z"/>
+<entry
+   committed-rev="408"
+   name="ui-icons_cd0a0a_256x240.png"
+   text-time="2011-09-16T16:50:47.636459Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="5d8808d43cefca6f6781a5316d176632"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:51.525840Z"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_highlight-soft_75_cccccc_1x100.png"
+   text-time="2011-09-16T16:50:47.621458Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="72c593d16e998952cd8d798fee33c6f3"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:53.065928Z"/>
+<entry
+   committed-rev="408"
+   name="ui-bg_flat_0_aaaaaa_40x100.png"
+   text-time="2011-09-16T16:50:47.604457Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="2a44fbdb7360c60122bcf6dcef0387d8"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:50.469780Z"/>
+<entry
+   committed-rev="408"
+   name="ui-icons_454545_256x240.png"
+   text-time="2011-09-16T16:50:47.630458Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="771099482bdc1571ece41073b1752596"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:51.818857Z"/>
+<entry
+   committed-rev="408"
+   name="ui-icons_222222_256x240.png"
+   text-time="2011-09-16T16:50:47.624458Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="9129e086dc488d8bcaf808510bc646ba"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:52.268883Z"/>
+</wc-entries>

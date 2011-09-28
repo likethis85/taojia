@@ -1,0 +1,1949 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="406"
+   name=""
+   committed-date="2011-09-17T07:48:06.881344Z"
+   url="https://svn.sinaapp.com/taojia/5/include/top/request"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="406"/>
+<entry
+   committed-rev="406"
+   name="PictureUploadRequest.php"
+   text-time="2011-09-14T14:45:09.064964Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="88c6ab1b91b0bcc72e81b9b748bfefc3"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmMembersGroupsBatchdeleteRequest.php"
+   text-time="2011-09-14T14:45:09.078964Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="6928708c478c055ed79dcb816650661d"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="LogisticsOnlineConfirmRequest.php"
+   text-time="2011-09-14T14:45:09.091965Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="783d211160911494075ff57e2014d6ba"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PromotionCouponAddRequest.php"
+   text-time="2011-09-14T14:45:09.104966Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="394477be0d94058d50f7d9ed12dcdbd6"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="LogisticsAddressRemoveRequest.php"
+   text-time="2011-09-14T14:45:09.115966Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="c386d3fe55d8fce4a5be44b4e029ade5"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmMembersGroupBatchaddRequest.php"
+   text-time="2011-09-14T14:45:09.129967Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="cb2814ca1db541c4dc757edab04575ef"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="HotelsSearchRequest.php"
+   text-time="2011-09-14T14:45:09.139968Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="7a380b5b8350d033a7f12afc66531e90"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PromotionMealGetRequest.php"
+   text-time="2011-09-14T14:45:09.151969Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="7512d5525ec229b106b4eb69dc5d4d39"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="HotelTypeAddRequest.php"
+   text-time="2011-09-14T14:45:09.163969Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="9c26ddaa373c482d779a0779b49e93aa"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemUpdateListingRequest.php"
+   text-time="2011-09-14T14:45:09.172970Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="0c63f92961d632d0e25f7a8e87f605ba"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PosterPosterdetailGetRequest.php"
+   text-time="2011-09-14T14:45:09.184970Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="f74248fe2d2971df1a24042a2ffef601"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemGetRequest.php"
+   text-time="2011-09-14T14:45:09.193971Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="fbec861bad15ff404af5d8ffe40624ca"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TraderatesGetRequest.php"
+   text-time="2011-09-14T14:45:09.203972Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="b4b11acc537e745cb7d318eda7bd3c0b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="FenxiaoCooperationUpdateRequest.php"
+   text-time="2011-09-14T14:45:09.214972Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="b6a6ffe1e84b6a3b37c28a554bb4a2ca"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="SellercatsListUpdateRequest.php"
+   text-time="2011-09-14T14:45:09.237973Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="4fb294b7333395c3c71b66d49bc30482"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="MarketingTagsGetRequest.php"
+   text-time="2011-09-14T14:45:09.249974Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="b9141953180b71a96548daf032a638ae"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="MarketingTagDeleteRequest.php"
+   text-time="2011-09-14T14:45:09.258975Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="6f9ec6667d58653a4dfbcc537eeeaf28"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TradeReceivetimeDelayRequest.php"
+   text-time="2011-09-14T14:45:09.227973Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="2bba6739d44e64ff282ac4269a01fe4b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemUpdateRequest.php"
+   text-time="2011-09-14T14:45:09.281976Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="407b966404c8a5caecb9534b306bc89e"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemRecommendAddRequest.php"
+   text-time="2011-09-14T14:45:09.268975Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="e4eea470bce136e8192bc201569691da"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemUpdateDelistingRequest.php"
+   text-time="2011-09-14T14:45:09.301977Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="90ab835fad6dceaea11197c3dc48e33c"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaChildcatesGetRequest.php"
+   text-time="2011-09-14T14:45:09.312978Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="75de738b4f1f7433b7fc6f59d111dd2b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="FenxiaoProductcatsGetRequest.php"
+   text-time="2011-09-14T14:45:09.322978Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="2eea89a89a008e5d444db16c17558cdf"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="SellercatsListAddRequest.php"
+   text-time="2011-09-14T14:45:09.334979Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="718908294314adcc75df26446503be7e"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemsSearchRequest.php"
+   text-time="2011-09-14T14:45:09.345980Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="c3b2b923bef15fd1b166f6da7289f1df"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="FenxiaoOrdersGetRequest.php"
+   text-time="2011-09-14T14:45:09.363981Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="ee7e5b4b1147e510a236694fc370d825"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="RefundMessagesGetRequest.php"
+   text-time="2011-09-14T14:45:09.374981Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="a9bf6b5f56166e404ff54d5d91b45f02"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="LogisticsOfflineSendRequest.php"
+   text-time="2011-09-14T14:45:09.386982Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="5eed036633c3243a9f806e8567151d09"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemImgDeleteRequest.php"
+   text-time="2011-09-14T14:45:09.396983Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="b21aaad05f76ea2969ab6fe28dd8cb00"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="LogisticsOrdersGetRequest.php"
+   text-time="2011-09-14T14:45:09.416984Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="8d3731a428768b72cdb0e3b689b7e742"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TradeMemoUpdateRequest.php"
+   text-time="2011-09-14T14:45:09.428984Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="cc3fcbe908d13d02d3ad6fda142083fd"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmGroupsGetRequest.php"
+   text-time="2011-09-14T14:45:09.446985Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="aceb993241578465ad24b006cb388387"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItempropsGetRequest.php"
+   text-time="2011-09-14T14:45:09.458986Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="6043a5ddff2f8b610bfdedff2724fe00"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="HotelAddRequest.php"
+   text-time="2011-09-14T14:45:09.470987Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="501dde74b414a97ce9abd62d0d7a7707"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PostageDeleteRequest.php"
+   text-time="2011-09-14T14:45:09.483988Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="0c21bdb9299816b5941eee4291aeb58a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="FenxiaoDistributorItemsGetRequest.php"
+   text-time="2011-09-14T14:45:09.494988Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="898514d1ea21b33e551d05af9314c851"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TradeMemoAddRequest.php"
+   text-time="2011-09-14T14:45:09.505989Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="734f4419162bdf7a7c0c987a9d737d36"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaobaokeItemsGetRequest.php"
+   text-time="2011-09-14T14:45:09.515989Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="c13d6eca9ed85dfbecb0a3262b78649f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PosterChannelsGetRequest.php"
+   text-time="2011-09-14T14:45:09.532990Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="441b279d0e5692a49a87d7522a07e4f9"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaAudioreaderTrackAuditionurlGetRequest.php"
+   text-time="2011-09-14T14:45:09.541991Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="63cdd16e5b8e86ef36e29562f76e6d95"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TradesBoughtGetRequest.php"
+   text-time="2011-09-14T14:45:09.551991Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="9925cc6892ab7a68653bebf879c4c054"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PromotionCoupondetailGetRequest.php"
+   text-time="2011-09-14T14:45:09.563992Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="4bbb875e73881776129d6d8728baea6b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaAudioreaderMyalbumsGetRequest.php"
+   text-time="2011-09-14T14:45:09.585993Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="cff7d0afc33f78d762ceecdedf203396"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemImgUploadRequest.php"
+   text-time="2011-09-14T14:45:09.573993Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="cd6b042d91a3d889d546e6ed1ac59f36"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaStaffrecitemsGetRequest.php"
+   text-time="2011-09-14T14:45:09.594994Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="e0ea119a3a94d1766fa1ad6dce676d53"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmRuleGroupSetRequest.php"
+   text-time="2011-09-14T14:45:09.605994Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="e02208645464009bf9fd30c6c12e18d0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemSkuDeleteRequest.php"
+   text-time="2011-09-14T14:45:09.625996Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="55fed559e7846df840522a6942965aa9"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemSkusGetRequest.php"
+   text-time="2011-09-14T14:45:09.616995Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="7b34274315ca3823f6cd454d066e258f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="LogisticsTraceSearchRequest.php"
+   text-time="2011-09-14T14:45:09.637996Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="bc5b6ec4035d95e3b82406460176d7ed"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaAudioreaderAlbumGetRequest.php"
+   text-time="2011-09-14T14:45:09.665998Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="40b5fceca25189ecb1c35296e16102f1"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmGroupAddRequest.php"
+   text-time="2011-09-14T14:45:09.649997Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="1fc66b6cbd54495f092c0c8c66988cc8"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="HotelRoomGetRequest.php"
+   text-time="2011-09-14T14:45:09.677999Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="2e0811647431ef5a99943e4a3be0be0c"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PromotionActivityCancelRequest.php"
+   text-time="2011-09-14T14:45:09.688999Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="4c0e91475c221040de179463efa3bb37"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaItemsSearchRequest.php"
+   text-time="2011-09-14T14:45:09.700000Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="e443284dcf69ba829317bbe8ba8254da"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PictureGetRequest.php"
+   text-time="2011-09-14T14:45:09.711001Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="e48f98d5934749a92eef80458f210009"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemsCustomGetRequest.php"
+   text-time="2011-09-14T14:45:09.722001Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="a223c7c4189f3eb7cbba9aa9a137ee02"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="FenxiaoGradesGetRequest.php"
+   text-time="2011-09-14T14:45:09.743002Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="476a9e7e0d750662df2cbf19c4863af0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemPropimgDeleteRequest.php"
+   text-time="2011-09-14T14:45:09.733002Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="48422d6d934e1c41c19963fdfa5e23e0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TraderateListAddRequest.php"
+   text-time="2011-09-14T14:45:09.752003Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="ccf1b6870b6ddbc089f448d6a92651b6"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="HotelRoomsSearchRequest.php"
+   text-time="2011-09-14T14:45:09.773004Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="b482d98320c7885130ccf5c2a0adb6cc"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemSkuGetRequest.php"
+   text-time="2011-09-14T14:45:09.763003Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="3a39b90392a5af46c62968b35b75dc1b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="SellercenterSubusersGetRequest.php"
+   text-time="2011-09-14T14:45:09.797005Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="14ca20dacca9b898ae61350dd2f72d7b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemsOnsaleGetRequest.php"
+   text-time="2011-09-14T14:45:09.785005Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="43263b6f0f8b5424e38b78b81277b8a0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmGradeGetRequest.php"
+   text-time="2011-09-14T14:45:09.807006Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="48d0eb4d8ce05934f11593d78c938cde"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="IncrementItemsGetRequest.php"
+   text-time="2011-09-14T14:45:09.817007Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="ca8b7bbd09efa0174c8a281bc67cbaae"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="MarketingTagAddRequest.php"
+   text-time="2011-09-14T14:45:09.837008Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="f89dfc0684be258d633096c4ee6f5ecc"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="LogisticsDummySendRequest.php"
+   text-time="2011-09-14T14:45:09.828007Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="5587a955f2bf0ce8f18de5e0a93a0675"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaobaokeItemsConvertRequest.php"
+   text-time="2011-09-14T14:45:09.847008Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="2056aa4310963e342d02c82c1d7a1682"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmMemberinfoUpdateRequest.php"
+   text-time="2011-09-14T14:45:09.863009Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="26175e37994e6dd8eec826c326cbef65"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmMembersGetRequest.php"
+   text-time="2011-09-14T14:45:09.875010Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="fc636ecf493d003988ab6e4ba75fa385"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="FenxiaoProductUpdateRequest.php"
+   text-time="2011-09-14T14:45:09.909012Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="a4a5afe48b0fcdfd3ba4e3ba5289d2ae"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TradeFullinfoGetRequest.php"
+   text-time="2011-09-14T14:45:09.930013Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="b7b5324a315bf974fcc326678064e0f1"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ProductImgDeleteRequest.php"
+   text-time="2011-09-14T14:45:09.942014Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="97b61145fc868e8dd100bf7ffccdc862"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PromotionMembersGetRequest.php"
+   text-time="2011-09-14T14:45:09.955014Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="5dd00bb9c1422586d48b98397714331b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemPropimgUploadRequest.php"
+   text-time="2011-09-14T14:45:09.968015Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="856dd9791c23b6b3afd5d506bf81128a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TopatsTradeAccountreportGetRequest.php"
+   text-time="2011-09-14T14:45:09.978016Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="5621b93d5d5f73fc3a4e48321068d70d"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TradesSoldGetRequest.php"
+   text-time="2011-09-14T14:45:09.999017Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="5b83d22e57705b0c748d0ecb0766f2a0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="WangwangEserviceGroupmemberGetRequest.php"
+   text-time="2011-09-14T14:45:09.989016Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="391d95e72a3488cd4663106e7c789cc9"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaItemLikeRequest.php"
+   text-time="2011-09-14T14:45:10.011018Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="19eb2805b2991ec3374d72185c0414da"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="FenxiaoDiscountUpdateRequest.php"
+   text-time="2011-09-14T14:45:10.034019Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="aaae78005ab6bafcbcaee9a8fa120da6"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PostageUpdateRequest.php"
+   text-time="2011-09-14T14:45:10.021018Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="672e81b99ed927a243b0a534ef7adc12"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="AftersaleGetRequest.php"
+   text-time="2011-09-14T14:45:10.044020Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="81d38d404265d8e4c80d84a68003dfd6"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemcatsGetRequest.php"
+   text-time="2011-09-14T14:45:10.074021Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="7f1a7f92820af09c62504c3752a84ab5"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TopatsResultGetRequest.php"
+   text-time="2011-09-14T14:45:10.054020Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="cc0887f05c2136486ecd2d70928efafe"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ShopGetRequest.php"
+   text-time="2011-09-14T14:45:10.064021Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="19e81e29581c239c26587ce6355b082f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="LogisticsOnlineCancelRequest.php"
+   text-time="2011-09-14T14:45:10.084022Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="7111867760b5f1ab28f61cddf40d26fc"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaAudioreaderSearchRequest.php"
+   text-time="2011-09-14T14:45:10.094022Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="786e2a91e8e4b77e09b432d3be697c2f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PromotionActivityAddRequest.php"
+   text-time="2011-09-14T14:45:10.114024Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="ea03baa93a256892e175031c6f336234"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemsListGetRequest.php"
+   text-time="2011-09-14T14:45:10.126024Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="8d5e07730d969cd641d612a72b702a46"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="UserGetRequest.php"
+   text-time="2011-09-14T14:45:10.136025Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="eccf524122f83ae5dd2901d62cf21a0a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="HotelUpdateRequest.php"
+   text-time="2011-09-14T14:45:10.146025Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="4cec1fb2ab6087cae9ed891c901205bd"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmGrouptaskCheckRequest.php"
+   text-time="2011-09-14T14:45:10.159026Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="6688fbc97c2edb3750f61e322376ae55"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ShopcatsListGetRequest.php"
+   text-time="2011-09-14T14:45:10.179027Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="baa37d6fb170b6afc30f929a1487c6e7"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="HotelOrdersSearchRequest.php"
+   text-time="2011-09-14T14:45:10.189028Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="981d072055acd8e80a61c76dea51cd0c"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaAudioreaderRecommendGetRequest.php"
+   text-time="2011-09-14T14:45:10.169027Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="11c740613da696e381340f1b55fe2c1f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmGroupDeleteRequest.php"
+   text-time="2011-09-14T14:45:10.201029Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="eb4dc8c2570da4cc542b7913f72c4ad5"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ProductImgUploadRequest.php"
+   text-time="2011-09-14T14:45:10.211029Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="38d73fc26188affb44a3d9be81ddd77b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemSkuUpdateRequest.php"
+   text-time="2011-09-14T14:45:10.242031Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="beb4ac44c5ece72328a716912a9d1997"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TraderatesSearchRequest.php"
+   text-time="2011-09-14T14:45:10.229030Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="c2a18d25eeb4303ee29e07aed4501337"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PromotionActivityDeleteRequest.php"
+   text-time="2011-09-14T14:45:10.253032Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="e54fdf89b31683f156ad6261d0f0fa64"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmMembergradeSetRequest.php"
+   text-time="2011-09-14T14:45:10.329036Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="8a018aaace298ed8bd515a997e531947"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ProductAddRequest.php"
+   text-time="2011-09-14T14:45:10.350037Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="588ae0ed999d4475cf5316baca7a4b86"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="VasSubscribeGetRequest.php"
+   text-time="2011-09-14T14:45:10.368038Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="c828e1905fb53cbb5e57f53915ab3301"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="LogisticsAddressSearchRequest.php"
+   text-time="2011-09-14T14:45:10.378039Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="921e72a3b7f9ee411f3090db1f8fa281"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="RefundRefuseRequest.php"
+   text-time="2011-09-14T14:45:10.397040Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="369f9b9b01b8ece59c9077cdfd63efff"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PromotionCouponsGetRequest.php"
+   text-time="2011-09-14T14:45:10.406040Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="4d0fa67180a79e53cf23511b6b9b378a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="SellercatsListGetRequest.php"
+   text-time="2011-09-14T14:45:10.387039Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="8b502a46f743dde21b943777af4eecc6"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TimeGetRequest.php"
+   text-time="2011-09-14T14:45:10.416041Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="4c8d5b8e6f3b80a1171c12518c6409d7"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemJointImgRequest.php"
+   text-time="2011-09-14T14:45:10.425041Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="540bee15a09a7c697fde818a2b987990"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ProductPropimgDeleteRequest.php"
+   text-time="2011-09-14T14:45:10.435042Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="f27131524501912b25ce99f291ec9f56"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmMembersIncrementGetRequest.php"
+   text-time="2011-09-14T14:45:10.445042Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="aa9f05f8eb4eff7ec9956e7b9b53206c"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="FenxiaoProductAddRequest.php"
+   text-time="2011-09-14T14:45:10.467044Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="6a493385f4775a7b9e4cc87c6de75f7a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaobaokeShopsConvertRequest.php"
+   text-time="2011-09-14T14:45:10.457043Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="be33f16cd49b16af7e1a3e4daa95144a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaBoughtitemIsRequest.php"
+   text-time="2011-09-14T14:45:10.481045Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="98cee70a7152c98d3d1edd10f0ebd2cd"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaItemcommentsGetRequest.php"
+   text-time="2011-09-14T14:45:10.490045Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="d0ab30e5caee4ad06cb9e9710e4d422a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PromotionMealDeleteRequest.php"
+   text-time="2011-09-14T14:45:10.499046Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="5e1620fb9ede4e8132e569561d6d3305"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TradesSoldIncrementGetRequest.php"
+   text-time="2011-09-14T14:45:10.509046Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="8bb45181bfb204977044586827d58efe"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="FenxiaoDiscountAddRequest.php"
+   text-time="2011-09-14T14:45:10.538048Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="1600e160fe1a83bab52c1eeaa055cca8"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PostageAddRequest.php"
+   text-time="2011-09-14T14:45:10.547048Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="f8c6e382c7406a07f097a6499a1220d8"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="HotelGetRequest.php"
+   text-time="2011-09-14T14:45:10.529047Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="9e435d8adc66372aaed96d23e856200f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="HuabaoChannelsGetRequest.php"
+   text-time="2011-09-14T14:45:10.520047Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="c8621647c6c25e538ff363289048e4d1"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ShopUpdateRequest.php"
+   text-time="2011-09-14T14:45:10.559049Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="fb21415b8a7e287de8458b1a16ab3ada"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="VasSubscSearchRequest.php"
+   text-time="2011-09-14T14:45:10.568050Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="7f92d502ef98d6955bf93fd3edaed733"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="SkusCustomGetRequest.php"
+   text-time="2011-09-14T14:45:10.579050Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="662bb636e90c3be0c6a9d5d6d6a3ea68"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PosterPostersSearchRequest.php"
+   text-time="2011-09-14T14:45:10.588051Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="e9180d9b6283b7f272b8b9aec16f8a03"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ProductUpdateRequest.php"
+   text-time="2011-09-14T14:45:10.608052Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="725d7b33b82db36d44c62c4583b6d752"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaItemdetailGetRequest.php"
+   text-time="2011-09-14T14:45:10.599051Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="a06624ee5bea6e900c0af722a43e773b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ProductPropimgUploadRequest.php"
+   text-time="2011-09-14T14:45:10.618052Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="d031fdbe17ba180e4b143a9899f2b1c1"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TraderateAddRequest.php"
+   text-time="2011-09-14T14:45:10.628053Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="3f6823f7e6e67ccd4e6d00fbac123aef"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TradeCloseRequest.php"
+   text-time="2011-09-14T14:45:10.690056Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="2d56144da0e3021bdf01241f600830a2"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="MarketingTaguserAddRequest.php"
+   text-time="2011-09-14T14:45:10.638054Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="350ee56febd63a9bf25ab809ebfc72e0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmGroupMoveRequest.php"
+   text-time="2011-09-14T14:45:10.681056Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="1ef9b389042bafef93e1619c61069840"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="HuabaoPosterGetRequest.php"
+   text-time="2011-09-14T14:45:10.700057Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="79c0e27e2c3c17e2b6965add7181a20b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="KfcKeywordSearchRequest.php"
+   text-time="2011-09-14T14:45:10.709058Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="8b97e42611395ccad93d707be4bd5f19"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemsInventoryGetRequest.php"
+   text-time="2011-09-14T14:45:10.719058Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="bdd183b42986bed294989225deeafdf5"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaobaokeCaturlGetRequest.php"
+   text-time="2011-09-14T14:45:10.741059Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="98384e086c738f12c539f22e99847fa5"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PosterAppointedpostersGetRequest.php"
+   text-time="2011-09-14T14:45:10.730059Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="0064a1fb2299c7771f7570628244206a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmGroupUpdateRequest.php"
+   text-time="2011-09-14T14:45:10.752060Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="9e4180f4ca66fd409e1a63d66f16d457"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ShopRemainshowcaseGetRequest.php"
+   text-time="2011-09-14T14:45:10.776061Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="986fe9dd2bd41af7db023fbd9650bd32"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="LogisticsOrdersDetailGetRequest.php"
+   text-time="2011-09-14T14:45:10.765061Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="d47fa50be215d20690f6542a532e8dc2"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ProductsGetRequest.php"
+   text-time="2011-09-14T14:45:10.787062Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="bc602198f082c578b1ceb45a2d88e3c9"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaobaokeListurlGetRequest.php"
+   text-time="2011-09-14T14:45:10.797063Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="9faad51103baafe3acca2101970305cb"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaobaokeItemsDetailGetRequest.php"
+   text-time="2011-09-14T14:45:10.808063Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="1062ce2f04de6ff973a35361bec7a82c"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="VasOrderSearchRequest.php"
+   text-time="2011-09-14T14:45:10.818064Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="f390e8654f4fdca9a8df5b9f1e21046c"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="IncrementCustomerStopRequest.php"
+   text-time="2011-09-14T14:45:10.829064Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="5402daad91db185fa233fe3c868bb008"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItempropvaluesGetRequest.php"
+   text-time="2011-09-14T14:45:10.849066Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="0d808c2b59aff677c73548604fd5ede9"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="LogisticsPartnersGetRequest.php"
+   text-time="2011-09-14T14:45:10.839065Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="f52bd66109918093b77dea8a52a2122b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="HuabaoSpecialpostersGetRequest.php"
+   text-time="2011-09-14T14:45:10.859066Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="532495f791e23a62c36c1fadb0325257"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="FenxiaoLoginUserGetRequest.php"
+   text-time="2011-09-14T14:45:10.890068Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="6aae6e605fa2eedf33a53fb074c8311b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemsGetRequest.php"
+   text-time="2011-09-14T14:45:10.872067Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="a12facd16fcbf1895eaa106bb5f307a6"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PictureCategoryAddRequest.php"
+   text-time="2011-09-14T14:45:10.900069Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="2d55fbeb5396e5098369e099b75de01f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="WangwangEserviceReceivenumGetRequest.php"
+   text-time="2011-09-14T14:45:10.925070Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="14dd60d066b229ba8fe3b07aede94660"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmRuleAddRequest.php"
+   text-time="2011-09-14T14:45:10.911069Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="25429133acda8c1b92c18de7ce3efeab"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="RefundGetRequest.php"
+   text-time="2011-09-14T14:45:10.936071Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="10e368431f89be5574a9b93916aeaa99"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PromotionCouponSendRequest.php"
+   text-time="2011-09-14T14:45:10.947071Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="6e69123f921805cccdc156af0590dd0d"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaobaokeVirtualcardGetRequest.php"
+   text-time="2011-09-14T14:45:10.969072Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="97fb7c8169b366e21b6c9d4e96dba2b4"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmGroupAppendRequest.php"
+   text-time="2011-09-14T14:45:10.958072Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="406a7b4ff7b8c500bc3ceaec3879c38c"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="IncrementTradesGetRequest.php"
+   text-time="2011-09-14T14:45:10.985073Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="0b0268da636e5c36da5b1b775712bb7a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="HuabaoChannelGetRequest.php"
+   text-time="2011-09-14T14:45:10.999074Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="25573856fd148f32de49699fd1ff37a1"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaItemresurlGetRequest.php"
+   text-time="2011-09-14T14:45:11.022075Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="9d4443408749ed137e3bf3f2dfad8426"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaItempayurlGetRequest.php"
+   text-time="2011-09-14T14:45:11.010075Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="466a40ba71dcc12440cfa414c623f963"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaAudioreaderTracksGetRequest.php"
+   text-time="2011-09-14T14:45:11.033076Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="abc80f4f5a50520aa8bf260ba537e2bd"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TradeGetRequest.php"
+   text-time="2011-09-14T14:45:11.045077Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="7b7446bb04687189fe9c94e63258baf0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="FenxiaoOrderConfirmPaidRequest.php"
+   text-time="2011-09-14T14:45:11.057077Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="54fba232620e714f434e014dd51c9786"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PromotionActivityGetRequest.php"
+   text-time="2011-09-14T14:45:11.070078Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="b6855661031378002276e7905ba95476"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemcatsAuthorizeGetRequest.php"
+   text-time="2011-09-14T14:45:11.081079Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="1ae2d08195d4ee9df29cd3e3068b61e2"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PosterChannelGetRequest.php"
+   text-time="2011-09-14T14:45:11.098080Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="dbd023cd94190639cc1b631a0aca4fa5"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemAddRequest.php"
+   text-time="2011-09-14T14:45:11.115081Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="6dddeb209fa807ae9954633ac3a3c4be"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PromotionCouponBuyerSearchRequest.php"
+   text-time="2011-09-14T14:45:11.134082Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="34c870ef7c95afd90ceb7eb6c799c0c1"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="IncrementRefundsGetRequest.php"
+   text-time="2011-09-14T14:45:11.154083Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="3f358d608b564b269cc7ca8df9a6cae4"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="MarketingPromotionDeleteRequest.php"
+   text-time="2011-09-14T14:45:11.144082Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="d0f7126dfbef9cbf84e6d2a8ba572abd"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="MarketingPromotionKfcRequest.php"
+   text-time="2011-09-14T14:45:11.165084Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="e4369f7614a966a47f8d0ab3a8619903"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TopatsTradesFullinfoGetRequest.php"
+   text-time="2011-09-14T14:45:11.186085Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="ecde2c4905317d9fe6e9150e37fc11c8"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="RefundsApplyGetRequest.php"
+   text-time="2011-09-14T14:45:11.174084Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="dab339083189f9d63ebdbd7ab7b774bb"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaocodeGetRequest.php"
+   text-time="2011-09-14T14:45:11.207086Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="8070f247db1e39bf2b1f9a12e8650f1f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="LogisticsAddressModifyRequest.php"
+   text-time="2011-09-14T14:45:11.196085Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="6f817e2d56b2b9adb7d9884cd06ceedb"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PromotionCouponTransferRequest.php"
+   text-time="2011-09-14T14:45:11.239088Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="09c75eb0e3175b6fbf0ed756b459e629"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="LogisticsOnlineSendRequest.php"
+   text-time="2011-09-14T14:45:11.217087Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="c74b03953726fcdf1981e261c3f3aebb"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TradeSnapshotGetRequest.php"
+   text-time="2011-09-14T14:45:11.248088Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="aa3731e9851845afb58c2564c48b7ae0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="LogisticsAddressAddRequest.php"
+   text-time="2011-09-14T14:45:11.228087Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="c56a7c008a5d99fe9f0ea166987525c7"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ProductGetRequest.php"
+   text-time="2011-09-14T14:45:11.258089Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="b57e778b24d09463efd69f8a89c3fd51"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TradeOrderskuUpdateRequest.php"
+   text-time="2011-09-14T14:45:11.277090Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="9e9e360fb29352c6bd05d3abc74d49f7"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaobaokeReportGetRequest.php"
+   text-time="2011-09-14T14:45:11.267090Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="0f7a87d04e23f099b62d6fa867793433"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaAudioreaderTrackDownloadurlGetRequest.php"
+   text-time="2011-09-14T14:45:11.288091Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="6bda00c512ad2901fa90c44b2df9b3ec"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PosterPostauctionsGetRequest.php"
+   text-time="2011-09-14T14:45:11.308092Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="395f790b5c16c3096d2c0400a22aeff0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="WangwangEserviceNoreplynumGetRequest.php"
+   text-time="2011-09-14T14:45:11.330093Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="3c59a03445a359225fc81c455b8b20ab"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TopatsDeliverySendRequest.php"
+   text-time="2011-09-14T14:45:11.318092Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="5588f63df9596a63ef42ebc30098f0b0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="HotelRoomImgDeleteRequest.php"
+   text-time="2011-09-14T14:45:11.297091Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="45ccbbee030e649aa6cfa877a5333beb"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ProductsSearchRequest.php"
+   text-time="2011-09-14T14:45:11.340094Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="3c23c14266942fcf72c3d5a4119411fe"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="AreasGetRequest.php"
+   text-time="2011-09-14T14:45:11.351094Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="ceb19c087e42d641b9124a578a8d9811"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="FenxiaoCooperationGetRequest.php"
+   text-time="2011-09-14T14:45:11.360095Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="e725efecbd1dba2696204cedd30ceefb"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="LogisticsCompaniesGetRequest.php"
+   text-time="2011-09-14T14:45:11.370095Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="2174652297144cc6be135c2e3be2e766"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemQuantityUpdateRequest.php"
+   text-time="2011-09-14T14:45:11.381096Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="d464e745a36cfd907172b1ca1190f4b3"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemJointPropimgRequest.php"
+   text-time="2011-09-14T14:45:11.392097Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="18cb4cff70ce51a2658454adf2ba3557"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmShopvipCancelRequest.php"
+   text-time="2011-09-14T14:45:11.403097Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="365bbf1aabb6def2a00049303a3367f0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmGradeSetRequest.php"
+   text-time="2011-09-14T14:45:11.412098Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="cd40fe2f779bf11d14f459df26419458"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="MarketingPromotionAddRequest.php"
+   text-time="2011-09-14T14:45:11.423098Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="05fb6cafb1a8bc035cb3e4bb244905dc"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaobaokeShopsGetRequest.php"
+   text-time="2011-09-14T14:45:11.445100Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="da26d4d7e15803a08fd0d5c14ccf3cd0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PostageGetRequest.php"
+   text-time="2011-09-14T14:45:11.434099Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="4fad83fb90cf6bdfc449a3c8a863caec"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="HuabaoPosterGoodsinfoGetRequest.php"
+   text-time="2011-09-14T14:45:11.456100Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="2d733f4a16034d74070033a66e8e643f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="HotelOrderGetRequest.php"
+   text-time="2011-09-14T14:45:11.466101Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="a16265a5038c97dda678aa25a7d9d234"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TradeShippingaddressUpdateRequest.php"
+   text-time="2011-09-14T14:45:11.486102Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="4e547968313df09c8feb6a3bae3c3235"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="HotelRoomImgUploadRequest.php"
+   text-time="2011-09-14T14:45:11.476101Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="a8a05225b7643aabd2c05cdf5b1bbb9f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="FenxiaoProductsGetRequest.php"
+   text-time="2011-09-14T14:45:11.497103Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="e0a46038a4ad04ac43221dffc5111c17"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaLatestupdateinfoGetRequest.php"
+   text-time="2011-09-14T14:45:11.508103Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="5b4a3248671dca3c22c321cd444c09d7"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="HuabaoPostersGetRequest.php"
+   text-time="2011-09-14T14:45:11.519104Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="f7cb80bf41b274f28253eeb87cecc2f3"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="HotelRoomAddRequest.php"
+   text-time="2011-09-14T14:45:11.539105Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="e39092b474533ab5ec19e8c33fb22a5e"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaobaokeToolRelationRequest.php"
+   text-time="2011-09-14T14:45:11.558106Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="144b09818b96b11f56ad043cf79c1c1f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemDeleteRequest.php"
+   text-time="2011-09-14T14:45:11.529104Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="5a78e66c521265b2ece7f1076ceac7ac"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmMembersSearchRequest.php"
+   text-time="2011-09-14T14:45:11.569107Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="5eded4dd896c41eacc4c4f2394260809"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TradeAmountGetRequest.php"
+   text-time="2011-09-14T14:45:11.583108Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="9af44ff90543d98d5dd2d126914bfa0a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="WangwangEserviceOnlinetimeGetRequest.php"
+   text-time="2011-09-14T14:45:11.593108Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="0b8d5875525ee42d36be004428db0d20"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="FenxiaoDiscountsGetRequest.php"
+   text-time="2011-09-14T14:45:11.603109Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="b605f676034af3ba55ed7fa4bc75cad6"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PostagesGetRequest.php"
+   text-time="2011-09-14T14:45:11.613109Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="d7e4d949dac71fead3ace9ac8802eb30"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="WangwangEserviceEvaluationGetRequest.php"
+   text-time="2011-09-14T14:45:11.630110Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="53e603393b94fbd20bc9de2c62922481"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="IncrementCustomerPermitRequest.php"
+   text-time="2011-09-14T14:45:11.622110Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="5aa17e3f1c3e487c601fb3dde7addb32"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="FavoriteAddRequest.php"
+   text-time="2011-09-14T14:45:11.640111Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="f63da155cc595c54c058431ec332cde4"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="IncrementCustomersGetRequest.php"
+   text-time="2011-09-14T14:45:11.650111Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="354ecdd05caecb339027bce78d866194"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemSkuAddRequest.php"
+   text-time="2011-09-14T14:45:11.659112Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="45dac43a215927e4858c8fce5c23787d"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="MarketingPromotionUpdateRequest.php"
+   text-time="2011-09-14T14:45:11.670113Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="cd9cf83c409deb05357423aa67d2e64e"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaItemcommentAddRequest.php"
+   text-time="2011-09-14T14:45:11.709115Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="754f40a858530bb5919a44c2b013b080"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmRuleDeleteRequest.php"
+   text-time="2011-09-14T14:45:11.690114Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="514f3b211552cfde2f482a7b8e859b48"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PosterPostersGetRequest.php"
+   text-time="2011-09-14T14:45:11.699114Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="e76de88fb66a303f71600f43a6ff9d79"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="CrmRulesGetRequest.php"
+   text-time="2011-09-14T14:45:11.680113Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="43b4c25136e218a6eabf0b87ecce6480"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TradeConfirmfeeGetRequest.php"
+   text-time="2011-09-14T14:45:11.868124Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="27d3edc81a790b1be5369d837405c921"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PromotionMembergradeSetRequest.php"
+   text-time="2011-09-14T14:45:11.719115Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="cfeafe55bd540e409d1eb451e1ad8fb9"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PictureDeleteRequest.php"
+   text-time="2011-09-14T14:45:11.891125Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="bcb6c9dcca09cb26514e6f22463ea609"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="MarketingTaguserDeleteRequest.php"
+   text-time="2011-09-14T14:45:11.908126Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="19f0418fbaa991e487ad863a220fd4af"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaOrdersGetRequest.php"
+   text-time="2011-09-14T14:45:11.920127Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="ff87310231d48495a09f0c74a447fb82"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="RefundMessageAddRequest.php"
+   text-time="2011-09-14T14:45:11.931127Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="455ecaa6a00abb657e22c51407b25c60"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="UsersGetRequest.php"
+   text-time="2011-09-14T14:45:11.941128Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="db8dddf3625647bb442c10a597a9328f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="WangwangEserviceAvgwaittimeGetRequest.php"
+   text-time="2011-09-14T14:45:11.950129Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="d9a55f446910bed8722adcc1eb0d2c1f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaAudioreaderMytracksGetRequest.php"
+   text-time="2011-09-14T14:45:11.960129Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="db6532db66c97dafdbecf6522d2391a3"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="FavoriteSearchRequest.php"
+   text-time="2011-09-14T14:45:11.970130Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="c402003339013206bb22bdea39e7ef9a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="TaohuaPreviewurlGetRequest.php"
+   text-time="2011-09-14T14:45:11.979130Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="5497c45218500e803eadb7c01bf984a9"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="FenxiaoDistributorsGetRequest.php"
+   text-time="2011-09-14T14:45:11.989131Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="782a8ea016af4e3269f2a2bcc989b09b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="RefundsReceiveGetRequest.php"
+   text-time="2011-09-14T14:45:12.016132Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="68ec652cd9c268a4a8eda860f80e2714"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="PictureCategoryGetRequest.php"
+   text-time="2011-09-14T14:45:12.000131Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="ae0ca91217e48eb1db5fbc19fecccc2f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemRecommendDeleteRequest.php"
+   text-time="2011-09-14T14:45:12.048134Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="a261bd12e2285df9b0bfedf5db62a60d"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="HotelRoomUpdateRequest.php"
+   text-time="2011-09-14T14:45:12.060135Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="262bababe4cbaa8f6d34e65c2791cf00"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="MarketingPromotionsGetRequest.php"
+   text-time="2011-09-14T14:45:12.030133Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="71919926ea80c8f5d4bb3fa234091ea7"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="ItemTemplatesGetRequest.php"
+   text-time="2011-09-14T14:45:12.169141Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="ac76a385846c9a6cf0ceb42c6094c7da"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

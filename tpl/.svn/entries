@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="406"
+   name=""
+   committed-date="2011-09-17T07:48:06.881344Z"
+   url="https://svn.sinaapp.com/taojia/5/tpl"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="406"/>
+<entry
+   name="default"
+   kind="dir"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   name="css"
+   kind="dir"/>
+<entry
+   name="js"
+   kind="dir"/>
+</wc-entries>

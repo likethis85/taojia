@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="407"
+   name=""
+   committed-date="2011-09-17T07:50:09.453815Z"
+   url="https://svn.sinaapp.com/taojia/5/include/lotusphp_runtime/DB/QueryEngine/SqlMap"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="407"/>
+<entry
+   committed-rev="407"
+   name="DbSqlMapResultFactory.php"
+   text-time="2011-09-16T16:48:58.688227Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="b431b9bb1a937a6150b1316d83a6ed6f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="DbSqlMapClient.php"
+   text-time="2011-09-16T16:48:58.685227Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="5d7d6958888a5c5c2e5ef14ecc376296"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="AbstractDbSqlMapFilterObject.php"
+   text-time="2011-09-16T16:48:58.682227Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="ff5c3dff19d2c124ecbf9074d2bcee6b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

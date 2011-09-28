@@ -1,0 +1,7 @@
+name: taojia
+version: 4
+cron:
+        - description: cron test
+        url: /index.php?c=check&a=check_it
+        schedule: every 6 hour
+      

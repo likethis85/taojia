@@ -1,0 +1,487 @@
+/*
+                                                                                      
+                                          111000000000000000000111                                          
+                                    11000000000000000000000000000000011                                     
+                                 100000000000000000000000000000000000000001                                 
+                              100000000000000100001111111000000000000000000001                              
+                           100000000000000001                 111100000000000001                            
+                         100000000000000000001                      110000000000001                         
+                       100000000001  10000000001                        1000000000001                       
+                     100000000011      0000000001                          100000000001                     
+                   10000000001          1000000000                           11000000001                    
+                  1000000001             10000000001                           10010000001                  
+                 000000001                10000000001                        10000110000001                 
+               1000000001                  10000000001                     10000000000000000                
+              100000001                     10000000001                  10000000001100000000               
+             100000001                       10000000001               100000000001   00000000              
+            100000001                          0000000001           1100000000001      10000000             
+            00000001                            0000000001       11000000000001         10000001            
+           10000001                              0000000001   110000000000001            00000001           
+          10000001                                1000000000000000000000011               0000000           
+          00000001                                 100000000000000000011                  10000001          
+         10000001                           1111111000000000000000011                      1000000          
+         0000000                   1111110000000000000000000000111                         10000001         
+        10000001  11111111111000000000000000000000000000011101                              1000000         
+        10000000000000000000000000000000000000000000011111110001                            10000001        
+        0000000000000000000000000000000000000011111     100000001                           10000001        
+        000000000000000000000000000000111111            1000000001                           0000001        
+        0000000000000000111111111                        10000000011111110001111111111111    0000000        
+        0000001                                          1000000000000000000000000000000000010000000        
+        0000001                                     110000000000000000000000000000000000000000100000        
+        0000001                                 1100000000000100000000000000000000000000000000100001        
+        0000000                              110000000000000001001111              11111000000000001        
+        10000001                          110000000000000011110000001                       10000001        
+        10000001                        10000000000000011    100000001                      1000001         
+         1000000                      100000000000011         000000001                    10000001         
+         10000001                   10000000000011            1000000011                   1000000          
+          10000001                1000000000001                100000001                  10000001          
+          10000001              1000000000011                  100000001                 10000000           
+           10000001            10000000001                      100000001               100000001           
+            00000001         10000000001                        100000000               10000001            
+            100000001       1000000001                           100000001             10000000             
+             100000001    11000000001                             000000011          100000000              
+              100000001  1000000001                               100000001         100000000               
+                000000001000000001                                100000001        100000001                
+                 000000000000001                                   100000001     1000000001                 
+                  1000000010001                                    100000001   10000000001                  
+                    0000000001                                     110000001 10000000001                    
+                     100000010011                                   1000000000000000001                     
+                       1000000000011                                10000000000000001                       
+                         100000000000111                            10000000000000                          
+                           1000000000000001111                111100000000000001                            
+                              100000000000000000000011110000000000000000000001                              
+                                 100000000000000000000000000000000000000001                                 
+                                    11000000000000000000000000000000011                                     
+                                          111000000000000000001111                                          
+                                                     11                                                     
+Title:		Master signin styles for screen media
+Author: 	dan@simplebits.com
+*/
+
+/* reset styles 
+--------------------------------------------- */
+
+html, body, div, span,
+applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dd, dl, dt, li, ol, ul,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td
+	{
+	border: 0;
+	font-family: inherit;
+	font-size: 100%;
+	font-style: inherit;
+	font-weight: inherit;
+	line-height: 1;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	vertical-align: baseline;
+	}
+a img, :link img, :visited img
+	{
+	border: 0;
+	}
+table
+	{
+	border-collapse: collapse;
+	border-spacing: 0;
+	}
+ol, ul
+	{
+	list-style: none;
+	}
+q:before, q:after,
+blockquote:before, blockquote:after
+	{
+	content: "";
+	}
+
+/* master styles 
+--------------------------------------------- */
+
+body {
+	font: normal 62.5% "Helvetica Neue", helvetica, sans-serif;
+	color: #898c90;
+	background: #3f454c url(/Content/images/signin/bg-main.jpg);
+	padding: 0;
+	margin: 0; 
+	}
+	
+a:link,
+a:visited {
+	color: #898c90;
+	}
+a:hover {
+	color: #a6acb3;
+	}
+
+#main {
+	margin: 0 auto;
+	width: 500px;
+	padding: 60px 0;
+	}
+
+h1 a {
+	display: block;
+	width: 290px;
+	height: 75px;
+	margin: 0 auto;
+	background: url(/Content/images/signin/logo.jpg) no-repeat;
+	text-indent: -9999px;
+	margin-bottom: 5px;
+	-webkit-transition: opacity .2s linear;
+	-o-transition: opacity .2s linear;
+	transition: opacity .2s linear;
+	}
+h1 a:hover {	
+	opacity: .7;
+	}
+
+h2 {
+	font: normal 2.8em "Helvetica Neue", helvetica, sans-serif;
+	text-align: center;
+	}
+
+h3 {
+	margin: 20px 0 10px 0;
+	padding: 20px 0 0 0;
+	font: normal 1.4em "Helvetica Neue", helvetica, sans-serif;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: left;
+	color: #fff;
+	border-top: 1px solid rgba(255,255,255,.1);
+	}
+h3.or {
+	margin: 0 0 10px 0;
+	padding: 0;
+	font-weight: normal;
+	text-transform: none;
+	border-top: none;
+	color: #898c90;
+	}
+h4 {
+	margin: 20px 0 10px 0;
+	padding: 20px 0 0 0;
+	font: normal 1.8em "Helvetica Neue", helvetica, sans-serif;
+	line-height: 1.4;
+	font-weight: normal;
+	text-align: left;
+	color: #fff;
+	border-top: 1px solid rgba(255,255,255,.1);
+	}
+h4 strong {	
+	font-weight: bold;
+	}
+
+
+a.handle {
+	margin: 0 2px;
+	padding: 2px 4px;
+	font-size: 1em;
+	font-weight: normal;
+	text-decoration: none;
+	color: rgba(255,255,255,.7);
+	border: 2px solid rgba(0,0,0,.2);
+	background: rgba(0,0,0,.2);
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	-webkit-transition: all .2s ease;
+	}
+a.handle:hover {	
+	color: #fff;
+	border-color: rgba(0,0,0,.3);
+	background-color: rgba(0,0,0,.3);
+	}
+
+/* auth buttons */
+
+div.sign-connections {
+	float: right;
+	width: 220px;
+	position: relative;
+	margin: 39px 0 0 0;
+	}
+div.sign-connections-full {
+	width: 100%;
+	margin: 30px 0 0 0;
+	}
+div.sign-connections p {	
+	margin: 0;
+	font-size: 1.2em;
+	line-height: 1.5;
+	text-align: left;
+	}
+a.auth-sina,
+.auth-sina {
+	float: left;	
+	margin: 0 0 15px 0;
+	padding: 10px 12px 10px 40px;
+	font-size: 1.8em;
+	font-weight: normal;
+	text-decoration: none;
+	color: rgba(255,255,255,.9);
+	border: none;
+	background: url(/Content/images/sina_32x32.png) no-repeat 10px 50%;
+	background:
+		url(/Content/images/sina_32x32.png) no-repeat 10px 50%,
+		url(/Content/images/glass-light.png) repeat-x 0 50%;
+	background-color: #1d88b4;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	-webkit-transition: all .2s ease;
+	}
+a.auth-sina:hover,
+.auth-sina:hover {	
+	color: #fff;
+	background-color: #197ea7;
+	}
+a.auth-sina:active,
+.auth-sina:active {	
+	background-color: #15739a;
+	}
+	
+	
+	a.auth-qq,
+.auth-qq {
+	float: left;	
+	margin: 0 0 15px 0;
+	padding: 10px 12px 10px 40px;
+	font-size: 1.8em;
+	font-weight: normal;
+	text-decoration: none;
+	color: rgba(255,255,255,.9);
+	border: none;
+	background: url(/Content/images/qq_32x32.png) no-repeat 10px 50%;
+	background:
+		url(/Content/images/qq_32x32.png) no-repeat 10px 50%,
+		url(/Content/images/glass-light.png) repeat-x 0 50%;
+	background-color: #1d88b4;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	-webkit-transition: all .2s ease;
+	}
+a.auth-qq:hover,
+.auth-qq:hover {	
+	color: #fff;
+	background-color: #197ea7;
+	}
+a.auth-qq:active,
+.auth-qq:active {	
+	background-color: #15739a;
+	}
+div.sign-connections-full a.alt-link {	
+	float: left;
+	margin: 12px 0 0 20px;
+	font-size: 1.2em;
+	}
+
+div.sign-connections-up {
+	width: 100%;
+	margin: 30px 0 0 0;
+	text-align: center;
+	}
+div.sign-connections-up a.auth-twitter {	
+	float: none;
+	margin: 0 auto;
+	}
+p.sign-notamember {	
+	clear: both;
+	padding: 30px 0 0 0;
+	font-size: 1.6em;
+	text-align: center;
+	}
+
+/* form */
+
+#form-oldschool {	
+	float: left;
+	width: 250px;
+	margin: 20px 0 0 0;
+	border-right: 1px solid rgba(255,255,255,.1);
+	}
+form fieldset {
+	margin: 0 0 15px 0;
+	}
+label {
+	display: block;
+	margin: 0 0 4px 0;
+	font-size: 1.4em;
+	line-height: 1;
+	color: rgba(255,255,255,.8);
+	}
+input.text-input {
+	width: 200px;
+	border: none;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	font: 1.6em "Helvetica Neue", helvetica, sans-serif;
+	padding: 8px 10px;
+	margin-right: 8px;
+	color: #333;
+	outline: none;
+	}
+input.button {
+	display: block;
+	font: normal 1.6em "Helvetica Neue", helvetica, sans-serif;
+	background: #ea4c88 url(/Content/images/signin/glass.png) repeat-x 0 50%;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border: none;
+	padding: 8px 10px;
+	color: #fff;
+	cursor: pointer;
+	}	
+input.button:hover,
+input.button:focus {
+	text-decoration: none;
+	background-color: #df3e7b;
+	}
+input.button:active,
+a.form-sub:active {
+	text-decoration: none;
+	background-color: #c22b65;
+	}
+label a:link,
+label a:visited {
+	margin-left: 5px;
+	font-size: .9em;
+	line-height: 1;
+	font-weight: normal;
+	text-decoration: underline;
+	}
+.check {
+	float: left;
+	margin: 10px 0 0 20px;
+	}
+.check label {
+	color: #898c90;
+	}
+.check input {
+	vertical-align: middle;
+	}
+
+p {
+	margin: 1.5em 0 0 0;
+	font-size: 1.5em;
+	line-height: 1.5;
+	}
+p.message {
+	margin: 2px 0 0 0;
+	}
+p.alt-link {	
+	float: left;
+	margin: 10px 0 0 10px;
+	}
+
+div.form-inline {	
+	margin: 20px 0 0 0;
+	}
+div.form-inline form fieldset {	
+	display: inline;
+	}
+div.form-inline form input.text-input {
+	width: 180px;
+	}
+div.form-inline form input.button {	
+	display: inline;
+	}
+
+/* error handling */
+
+form .errorExplanation {
+	margin: 15px 0;
+	font-size: 1.4em;
+	line-height: 1.5;
+	font-weight: normal;
+	text-align: left;
+	color: #df3b3b;
+	background: #fff;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	}
+.errorExplanation h2 {
+	padding: 10px 20px;
+	font-size: 1.4em;
+	line-height: 1;
+	color: #fff;
+	background: #df3b3b url(/Content(/images/alert-lines.png) repeat-x top left;
+	-webkit-border-top-left-radius: 8px;
+	-webkit-border-top-right-radius: 8px;
+	-moz-border-radius-topleft: 8px;
+	-moz-border-radius-topright: 8px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	}
+.errorExplanation ul {
+	padding: 20px;
+	}
+.errorExplanation ul li {
+	margin: 0 0 5px 20px;
+	list-style: disc;
+	}
+fieldset.fieldWithErrors {
+	background: #fff url(/Content(/images/icon-error.png) no-repeat 20px 50%;
+	}
+
+/* flash notices */
+
+div.notice {
+	padding: 10px 12px;
+	font-size: .9em;
+	font-weight: normal;
+	text-align: left;
+	color: #fff;
+	background: #df3b3b url(/Content(/images/alert-lines.png) repeat-x top left;
+	}
+div.notice h2 {
+	width: 940px;
+	margin: 0 auto;
+	font-size: 2em;
+	font-weight: normal;
+	line-height: 1.3;
+	text-align: center;
+	}
+div.notice a:link,
+div.notice a:visited {
+	color: #fff;
+	text-decoration: underline;
+	}
+div.error {
+	background-color: #df3b3b;
+	}
+div.info {
+	background-color: #618fb9;
+	}
+div.success {
+	background-color: #83b452;
+	}
+	
+/* self-clear floats */
+
+.mod:after { 
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden; 
+	}
+
+/* IE patches 
+--------------------------------------------- */
+
+* html .mod { /* IE6 */
+	height: 1%;
+	}
+*:first-child+html .mod { /* IE7 */
+	min-height: 1px;
+	}

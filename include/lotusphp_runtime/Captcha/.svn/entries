@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="407"
+   name=""
+   committed-date="2011-09-17T07:50:09.453815Z"
+   url="https://svn.sinaapp.com/taojia/5/include/lotusphp_runtime/Captcha"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="407"/>
+<entry
+   committed-rev="407"
+   name="CaptchaImageEngine.php"
+   text-time="2011-09-16T16:48:58.379210Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="7289c2d2aa4c4db5306addcf2c6cb05e"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   name="fonts"
+   kind="dir"/>
+<entry
+   committed-rev="407"
+   name="Captcha.php"
+   text-time="2011-09-16T16:48:58.375209Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="5ec07bc0a2534b2fb357d4ba5e90bc89"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

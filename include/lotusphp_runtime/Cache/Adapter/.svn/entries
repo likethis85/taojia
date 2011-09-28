@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="407"
+   name=""
+   committed-date="2011-09-17T07:50:09.453815Z"
+   url="https://svn.sinaapp.com/taojia/5/include/lotusphp_runtime/Cache/Adapter"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="407"/>
+<entry
+   committed-rev="407"
+   name="CacheAdapterMemcached.php"
+   text-time="2011-09-16T16:48:58.318206Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="2f4076c5023c79041be95720ce1358bf"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="CacheAdapterEAccelerator.php"
+   text-time="2011-09-16T16:48:58.306205Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="3712b13f93c8567608c84571bf8c69f0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="CacheAdapterPhps.php"
+   text-time="2011-09-16T16:48:58.322206Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="e01713294ea9ad9b5318aa6fd2aabfdd"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="CacheAdapterXcache.php"
+   text-time="2011-09-16T16:48:58.325206Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="ed602b31e53b6168114e63ea19c372cc"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="CacheAdapterFile.php"
+   text-time="2011-09-16T16:48:58.311206Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="eeb43ab3a8fec191c6897a18f9c6c194"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="CacheAdapter.php"
+   text-time="2011-09-16T16:48:58.299205Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="837b8b79ac09431814de9088534613e2"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="CacheAdapterMemcache.php"
+   text-time="2011-09-16T16:48:58.315206Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="a973bb8bac04c32bb7a8c919d138ad15"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="CacheAdapterApc.php"
+   text-time="2011-09-16T16:48:58.302205Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="3ca0151f4fb50109284439cd7551dd48"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

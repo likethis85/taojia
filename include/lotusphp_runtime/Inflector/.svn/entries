@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="407"
+   name=""
+   committed-date="2011-09-17T07:50:09.453815Z"
+   url="https://svn.sinaapp.com/taojia/5/include/lotusphp_runtime/Inflector"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="407"/>
+<entry
+   committed-rev="407"
+   name="Inflector.php"
+   text-time="2011-09-16T16:48:58.705228Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="7cdb024f82152993d61cf3020346331b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

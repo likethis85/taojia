@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="406"
+   name=""
+   committed-date="2011-09-17T07:48:06.881344Z"
+   url="https://svn.sinaapp.com/taojia/5/include/sina"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="406"/>
+<entry
+   committed-rev="406"
+   name="config.php"
+   text-time="2011-09-14T16:26:59.481000Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="e79ad0c58131d377258892119d99bbd2"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="weibooauth.php"
+   text-time="2011-09-14T16:25:57.448000Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="afdd502fbbdeee690843607ef7c10e6c"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

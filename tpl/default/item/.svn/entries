@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="406"
+   name=""
+   committed-date="2011-09-17T07:48:06.881344Z"
+   url="https://svn.sinaapp.com/taojia/5/tpl/default/item"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="406"/>
+<entry
+   committed-rev="475"
+   name="recommend.php"
+   text-time="2011-09-17T01:50:19.096000Z"
+   committed-date="2011-09-17T16:51:08.661574Z"
+   checksum="8672946f6788af69baadc51dc1c99bae"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   revision="475"/>
+<entry
+   committed-rev="406"
+   name="not_taobao.html"
+   text-time="2011-09-16T15:43:34.421772Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="0cadbbcc0c266be84228045dfd26cdde"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="add_test.html"
+   text-time="2011-09-14T15:52:08.024835Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="0efe48d4f8c874c0b71b6e0e4b82e722"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="476"
+   name="ok.html"
+   text-time="2011-09-17T01:51:51.861306Z"
+   committed-date="2011-09-17T16:51:58.099377Z"
+   checksum="3b8525e81d06284676ed5b294a7478ed"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   revision="476"/>
+<entry
+   name="recommend.html"
+   kind="file"
+   deleted="true"
+   revision="452"/>
+</wc-entries>

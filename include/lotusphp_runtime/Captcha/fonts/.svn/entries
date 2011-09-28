@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="407"
+   name=""
+   committed-date="2011-09-17T07:50:09.453815Z"
+   url="https://svn.sinaapp.com/taojia/5/include/lotusphp_runtime/Captcha/fonts"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="407"/>
+<entry
+   committed-rev="407"
+   name="VeraSansBold.ttf"
+   text-time="2011-09-16T16:48:58.537219Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="4ebf664c986099acf6d151c62bdb24eb"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:49:17.756318Z"/>
+<entry
+   committed-rev="407"
+   name="Candice.ttf"
+   text-time="2011-09-16T16:48:58.423212Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="9c7bc61ece0a61a85b6e8a59bebef3d2"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:49:17.747317Z"/>
+<entry
+   committed-rev="407"
+   name="TimesNewRomanBold.ttf"
+   text-time="2011-09-16T16:48:58.520218Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="ed6e29caf3843142d739232aa8642158"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:49:17.385297Z"/>
+<entry
+   committed-rev="407"
+   name="Duality.ttf"
+   text-time="2011-09-16T16:48:58.442213Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="0a28056baf1a5d86a8b822236462b7cb"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:49:17.532305Z"/>
+<entry
+   committed-rev="407"
+   name="Ding-DongDaddyO.ttf"
+   text-time="2011-09-16T16:48:58.433213Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="7bc55743d12c71e4594f4b6b918f8917"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:49:17.669313Z"/>
+<entry
+   committed-rev="407"
+   name="StayPuft.ttf"
+   text-time="2011-09-16T16:48:58.459214Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="59299d5b871590f70b455395c244e8d6"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:49:17.316293Z"/>
+<entry
+   committed-rev="407"
+   name="AntykwaBold.ttf"
+   text-time="2011-09-16T16:48:58.400211Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="b9106ffe9631b4ab2e28f3d7accc48a3"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:49:17.501303Z"/>
+<entry
+   committed-rev="407"
+   name="Jura.ttf"
+   text-time="2011-09-16T16:48:58.452214Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="33a1ce8894390c3ccf3ad9d0971ccfff"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:49:17.462301Z"/>
+</wc-entries>

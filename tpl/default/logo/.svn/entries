@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="408"
+   name=""
+   committed-date="2011-09-17T07:59:10.229342Z"
+   url="https://svn.sinaapp.com/taojia/5/tpl/default/logo"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="408"/>
+<entry
+   committed-rev="408"
+   name="sina_16x16.png"
+   text-time="2011-09-16T16:50:47.587456Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="be4a87bea5a5c99cc180f062047e1564"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:50.357773Z"/>
+<entry
+   committed-rev="408"
+   name="qq_32x32.png"
+   text-time="2011-09-16T16:50:47.584456Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="07e8463a76583ca3dcad87c8ca54e667"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:52.081872Z"/>
+<entry
+   committed-rev="408"
+   name="qq_16x16.png"
+   text-time="2011-09-16T16:50:47.581456Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="9e35eb8dbad40bb3f1510b070c621b38"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:52.410891Z"/>
+<entry
+   committed-rev="408"
+   name="sina_32x32.png"
+   text-time="2011-09-16T16:50:47.590456Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="4a549a4e099ad7b72347b0456850b821"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   prop-time="2011-09-16T16:55:50.894804Z"/>
+</wc-entries>

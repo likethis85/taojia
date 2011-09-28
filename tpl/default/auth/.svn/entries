@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="406"
+   name=""
+   committed-date="2011-09-17T07:48:06.881344Z"
+   url="https://svn.sinaapp.com/taojia/5/tpl/default/auth"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="406"/>
+<entry
+   committed-rev="406"
+   name="setting-taobao.html"
+   text-time="2011-09-14T15:26:45.739765Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="d9874751f8da5c6c807a1320ef3788f5"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="come_from_sina_oauth.html"
+   text-time="2011-09-14T16:37:05.370114Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="071bace8d1cf3e24700fefdd1ebc94f4"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="inner_login_check.html"
+   text-time="2011-09-15T13:50:08.877018Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="2cd4de11adb803ccf21a8adad7dfac28"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="465"
+   name="go_to_user_manage.php"
+   text-time="2011-09-17T01:29:39.513100Z"
+   committed-date="2011-09-17T16:30:47.981654Z"
+   checksum="eccd7abe4ed646c3d5c8d9dc17746066"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   revision="465"/>
+<entry
+   committed-rev="457"
+   name="go_to_sina_login_to_recom.html"
+   text-time="2011-09-16T19:42:45.329597Z"
+   committed-date="2011-09-17T10:43:10.100764Z"
+   checksum="30f818877b1ccc095c2f8f3a7451578e"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"
+   revision="457"/>
+<entry
+   committed-rev="406"
+   name="go_to_sina_oauth.html"
+   text-time="2011-09-16T00:05:00.464097Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="d346b02dad69e7a7e839dbdfb403ff8d"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="get_sina_user_info.html"
+   text-time="2011-09-14T17:17:31.367873Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="c3a294da6a61d5c8ca6a2b98ff7dd156"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="setting-sina.html"
+   text-time="2011-09-14T15:22:33.369330Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="208e5c92d887dd817ed09be418939b31"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="index.html"
+   text-time="2011-09-14T15:19:38.538331Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="83a8c0d551b7799f3959e809cf667955"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

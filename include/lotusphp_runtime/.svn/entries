@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="407"
+   name=""
+   committed-date="2011-09-17T07:50:09.453815Z"
+   url="https://svn.sinaapp.com/taojia/5/include/lotusphp_runtime"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="407"/>
+<entry
+   name="Logger"
+   kind="dir"/>
+<entry
+   name="Router"
+   kind="dir"/>
+<entry
+   committed-rev="407"
+   name="Store.php"
+   text-time="2011-09-16T16:48:58.793233Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="0564a445b9997dfa81ad79d24d813e3b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="StoreFile.php"
+   text-time="2011-09-16T16:48:58.797233Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="5a672d40dded43f2c155749f766538bf"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   name="Session"
+   kind="dir"/>
+<entry
+   name="Validator"
+   kind="dir"/>
+<entry
+   name="MVC"
+   kind="dir"/>
+<entry
+   name="Inflector"
+   kind="dir"/>
+<entry
+   name="DB"
+   kind="dir"/>
+<entry
+   name="Pagination"
+   kind="dir"/>
+<entry
+   committed-rev="407"
+   name="Config.php"
+   text-time="2011-09-16T16:48:58.557220Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="ca1bfdaf58a9bbae46e2c56ea4e87786"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="Lotus.php"
+   text-time="2011-09-16T16:48:58.713229Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="e84004b7984d05065562bb1e0a05b3cf"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   name="Autoloader"
+   kind="dir"/>
+<entry
+   name="XML"
+   kind="dir"/>
+<entry
+   committed-rev="407"
+   name="shortcut.php"
+   text-time="2011-09-16T16:48:58.791233Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="d36af206bc45b2a956d1724151e12c32"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   name="Url"
+   kind="dir"/>
+<entry
+   name="Cache"
+   kind="dir"/>
+<entry
+   name="Captcha"
+   kind="dir"/>
+<entry
+   name="ObjectUtil"
+   kind="dir"/>
+<entry
+   name="Search"
+   kind="dir"/>
+<entry
+   name="RBAC"
+   kind="dir"/>
+<entry
+   name="Cookie"
+   kind="dir"/>
+<entry
+   committed-rev="407"
+   name="ConfigExpression.php"
+   text-time="2011-09-16T16:48:58.560220Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="695d1eeae336c87ccbc77929503c5a1a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="StoreMemory.php"
+   text-time="2011-09-16T16:48:58.809234Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="a84cc3d6b40d9c0889fb184dc6274d5b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

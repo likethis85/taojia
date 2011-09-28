@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="406"
+   name=""
+   committed-date="2011-09-17T07:48:06.881344Z"
+   url="https://svn.sinaapp.com/taojia/5/SpeedPHP"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="406"/>
+<entry
+   name="Extensions"
+   kind="dir"/>
+<entry
+   committed-rev="406"
+   name="UPDATE.txt"
+   text-time="2011-09-14T14:45:16.579393Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="864f53bbd60dc6cb40ad66bb313986f0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="LICENSE.txt"
+   text-time="2011-09-14T14:45:16.570393Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="9767932822f9e0f5c6e5fc999dd1a567"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="spFunctions.php"
+   text-time="2011-09-14T14:45:16.593394Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="36949296034dd9be61aaed8589155467"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   name="Core"
+   kind="dir"/>
+<entry
+   name="Misc"
+   kind="dir"/>
+<entry
+   name="Drivers"
+   kind="dir"/>
+<entry
+   committed-rev="406"
+   name="SpeedPHP.php"
+   text-time="2011-09-14T14:45:16.621396Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="aa027cb0cb0e212b6bc00ad984a5ddee"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="spConfig.php"
+   text-time="2011-09-14T22:32:40.339405Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="6855097d4ee502524e33e18c76230be0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

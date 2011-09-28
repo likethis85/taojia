@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="47"
+   name=""
+   committed-date="2011-09-15T05:47:14.558718Z"
+   url="https://svn.sinaapp.com/taojia/4/SpeedPHP/Drivers/Smarty/plugins"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="320"/>
+<entry
+   committed-rev="47"
+   name="function.html_image.php"
+   text-time="2011-09-14T14:46:24.368271Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="b60f74e5701f3fe7d61457cacf99fc1e"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifier.spacify.php"
+   text-time="2011-09-14T14:46:24.546281Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="6f38e4d3371e83a3d06d4381c881a329"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifier.escape.php"
+   text-time="2011-09-14T14:46:24.512279Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="fc6d1587562ef6c555aa6070b69bc5ad"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifiercompiler.strip_tags.php"
+   text-time="2011-09-14T14:46:24.674288Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="a3dad011660a8a908f25ff5c5004d443"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifier.debug_print_var.php"
+   text-time="2011-09-14T14:46:24.504278Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="7cf549b8d0bc352447083172158759c4"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifier.replace.php"
+   text-time="2011-09-14T14:46:24.533280Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="b2273dc8d7646ceae317dc1bfc2e85fd"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifiercompiler.count_characters.php"
+   text-time="2011-09-14T14:46:24.589283Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="c329b115ed7ef9bed6fc1da5aeba1991"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="variablefilter.htmlspecialchars.php"
+   text-time="2011-09-14T14:46:24.727291Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="41de646253dc1c98805575bb386a8d2a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="block.php.php"
+   text-time="2011-09-14T14:46:24.273265Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="1c9e67cac3c206a0101e0079a2703a9d"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifier.capitalize.php"
+   text-time="2011-09-14T14:46:24.483277Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="106dd54c9db24786990a582c117a1a5e"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifier.date_format.php"
+   text-time="2011-09-14T14:46:24.490278Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="774823f8be73a797d725ffd263deefc8"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="function.cycle.php"
+   text-time="2011-09-14T14:46:24.312267Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="3aed60eca7828872ff8158a73f39939b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifiercompiler.upper.php"
+   text-time="2011-09-14T14:46:24.686289Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="6a0c77764cf5de77a65443ddf49835be"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="block.textformat.php"
+   text-time="2011-09-14T14:46:24.282266Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="aac643cdd456ffaa42464cc0d4bab8f5"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifiercompiler.count_sentences.php"
+   text-time="2011-09-14T14:46:24.614285Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="4f51312afd28ea6d0fb18d6238b28700"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="function.popup.php"
+   text-time="2011-09-14T14:46:24.453276Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="52222036b18ff779b8dd8446a771bfeb"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="function.html_radios.php"
+   text-time="2011-09-14T14:46:24.386272Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="3ee52cebd46f4ec763cd1a1f4e67421e"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifiercompiler.strip.php"
+   text-time="2011-09-14T14:46:24.665288Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="483e9582ccf73b10953e1b126b10e57f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="outputfilter.trimwhitespace.php"
+   text-time="2011-09-14T14:46:24.702290Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="de5de4f6feaa040784f255e93f581b64"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifiercompiler.wordwrap.php"
+   text-time="2011-09-14T14:46:24.693289Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="ee19796e5252f46905c9bb144568fdd6"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifiercompiler.count_words.php"
+   text-time="2011-09-14T14:46:24.618285Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="bf8a26007facbb5ad9c9a1ed2459c58d"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifiercompiler.cat.php"
+   text-time="2011-09-14T14:46:24.577283Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="34f3e6a6edac6e8726db55497d5f294f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="function.html_table.php"
+   text-time="2011-09-14T14:46:24.418274Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="21d1c0da84832f84713ceac075522702"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifier.regex_replace.php"
+   text-time="2011-09-14T14:46:24.520279Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="b653d97c4d77c145de9f54231d34f169"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="function.counter.php"
+   text-time="2011-09-14T14:46:24.295266Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="44f45da4f4608820c6809b4df5b31a26"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="function.html_options.php"
+   text-time="2011-09-14T14:46:24.376271Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="aab94ee0466b31c708585af27ea35849"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="shared.make_timestamp.php"
+   text-time="2011-09-14T14:46:24.714290Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="b927bbc345e931765620fe49bd74163f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="function.html_select_time.php"
+   text-time="2011-09-14T14:46:24.411273Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="5a0fb7851c9c7a13663048d711e1fe5a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifiercompiler.string_format.php"
+   text-time="2011-09-14T14:46:24.657287Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="ff4cfec7b7afbff18ff39b49186e219b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifiercompiler.indent.php"
+   text-time="2011-09-14T14:46:24.635286Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="1bbc6a4b89dee0352afc6f7193e1d1e9"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="function.mailto.php"
+   text-time="2011-09-14T14:46:24.426274Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="a2ee11c42200791f08176869e3731c3f"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="function.popup_init.php"
+   text-time="2011-09-14T14:46:24.468276Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="aa5a044ef546a75aad30e52b1ddd3139"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifiercompiler.default.php"
+   text-time="2011-09-14T14:46:24.626285Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="af7a62544fd4009fe952274d0fb6f0cd"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="function.fetch.php"
+   text-time="2011-09-14T14:46:24.328268Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="e10809109b026f17efbf13a48ef946b9"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="function.math.php"
+   text-time="2011-09-14T14:46:24.444275Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="a875f349e9a8e87f5b6682147bf76e11"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifiercompiler.lower.php"
+   text-time="2011-09-14T14:46:24.644286Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="6cc744ae832d8c8b7b8a86e84f2ae711"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifiercompiler.noprint.php"
+   text-time="2011-09-14T14:46:24.646287Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="9197523f0e32b65d0fdfba4c3f3144f3"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifier.truncate.php"
+   text-time="2011-09-14T14:46:24.563282Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="181754eb8f60a81c40ef54c01e541fd7"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="function.html_select_date.php"
+   text-time="2011-09-14T14:46:24.402273Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="4666629080c1ed4ad8b353734c23559a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="shared.escape_special_chars.php"
+   text-time="2011-09-14T14:46:24.707290Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="bdf83b31ad1b08a07a86e793243c091a"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="shared.mb_str_replace.php"
+   text-time="2011-09-14T14:46:24.725291Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="0de197245694f2e7f8ec1a245ef52534"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="function.html_checkboxes.php"
+   text-time="2011-09-14T14:46:24.346269Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="1987102af1a373c52107c8afbf49ea1b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="47"
+   name="modifiercompiler.count_paragraphs.php"
+   text-time="2011-09-14T14:46:24.604284Z"
+   committed-date="2011-09-15T05:47:14.558718Z"
+   checksum="946217452bfde277222cee8b6bf40331"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

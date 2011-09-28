@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="407"
+   name=""
+   committed-date="2011-09-17T07:50:09.453815Z"
+   url="https://svn.sinaapp.com/taojia/5/include/lotusphp_runtime/Session"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="407"/>
+<entry
+   committed-rev="407"
+   name="SessionStore"
+   text-time="2011-09-16T16:48:58.777232Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="a9dd5171f8cde562ec8b9f7f8b13f6a4"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="Session.php"
+   text-time="2011-09-16T16:48:58.773232Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="30f1085cfa147a398c754c5bb233ea42"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   name="Store"
+   kind="dir"/>
+</wc-entries>

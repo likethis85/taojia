@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="407"
+   name=""
+   committed-date="2011-09-17T07:50:09.453815Z"
+   url="https://svn.sinaapp.com/taojia/5/include/lotusphp_runtime/MVC"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="407"/>
+<entry
+   committed-rev="407"
+   name="View.php"
+   text-time="2011-09-16T16:48:58.745230Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="4dcf0b022bec4dd109451ed8c8f7385b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="Action.php"
+   text-time="2011-09-16T16:48:58.723229Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="31ccc8c2742bb99507487426cd9c9e85"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="Component.php"
+   text-time="2011-09-16T16:48:58.728229Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="39266288ebbe9849ceeb562cc72ab8b6"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="Context.php"
+   text-time="2011-09-16T16:48:58.732230Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="466ee7245d73c6ffc18b3d3c953597aa"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="Dispatcher.php"
+   text-time="2011-09-16T16:48:58.736230Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="fba147e2d30552063f93ea7a4e966a39"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="407"
+   name="TemplateView.php"
+   text-time="2011-09-16T16:48:58.741230Z"
+   committed-date="2011-09-17T07:50:09.453815Z"
+   checksum="13bfa10088778f9c76cb720b92f29370"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

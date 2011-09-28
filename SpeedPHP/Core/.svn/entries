@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="406"
+   name=""
+   committed-date="2011-09-17T07:48:06.881344Z"
+   url="https://svn.sinaapp.com/taojia/5/SpeedPHP/Core"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="406"/>
+<entry
+   committed-rev="406"
+   name="spView.php"
+   text-time="2011-09-14T14:45:16.253375Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="26df1818491e14257489394ae806feeb"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="spModel.php"
+   text-time="2011-09-14T14:45:16.268376Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="f861f8bd1c21724bfc74464438459d70"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="406"
+   name="spController.php"
+   text-time="2011-09-14T14:45:16.298377Z"
+   committed-date="2011-09-17T07:48:06.881344Z"
+   checksum="794b2425e8be718a4594c93e27c0c614"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>

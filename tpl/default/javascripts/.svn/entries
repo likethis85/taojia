@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="408"
+   name=""
+   committed-date="2011-09-17T07:59:10.229342Z"
+   url="https://svn.sinaapp.com/taojia/5/tpl/default/javascripts"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="dir"
+   repos="https://svn.sinaapp.com/taojia"
+   revision="408"/>
+<entry
+   committed-rev="408"
+   name="comments.js"
+   text-time="2011-09-16T16:50:47.503451Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="a417cea60ba5973295711158b293e330"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="list.js-1301967639"
+   text-time="2011-09-16T16:50:47.549454Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="33640bd655cbcdc5559e34dffa3bcd5d"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.tipsy.js"
+   text-time="2011-09-16T16:50:47.545453Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="d41f25058fbbbe6d7ac2f4de8a8d3f9e"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.Jcrop.js"
+   text-time="2011-09-16T16:50:47.533453Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="ed882314c841932770eab4413337b4b0"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="screenshot.js"
+   text-time="2011-09-16T16:50:47.551454Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="c8b784bbd17e945e085ba92be6c4da84"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery-1.5.1.js"
+   text-time="2011-09-16T16:50:47.507451Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="f2402f0e7b549caae013bc3c05b3a161"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.jeditable.js"
+   text-time="2011-09-16T16:50:47.540453Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="5ae739cd28b9b83f364159c72d7a1f5d"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="jquery.form.js"
+   text-time="2011-09-16T16:50:47.527452Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="831702967b6b40e0a4b353e41e86d22b"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+<entry
+   committed-rev="408"
+   name="application.js"
+   text-time="2011-09-16T16:50:47.500451Z"
+   committed-date="2011-09-17T07:59:10.229342Z"
+   checksum="9038285908eef5c78a6b04e9ffdaa596"
+   last-author="hello.shuiyaya@gmail.com"
+   kind="file"/>
+</wc-entries>
